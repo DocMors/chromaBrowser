@@ -3,3 +3,4 @@ This is a simple browser for chromaDBs written in Python. Please feel free to mo
 Hope this helps some of you.
 
 BR, Mike
+![image](https://github.com/user-attachments/assets/effa0e1e-3270-4943-838e-c5314811c539)
